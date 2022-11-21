@@ -6,7 +6,7 @@ require (
 	github.com/a8m/envsubst v1.3.0
 	github.com/alessio/shellescape v1.4.1
 	github.com/blang/semver/v4 v4.0.0
-	github.com/btcsuite/btcd v0.23.1
+	github.com/btcsuite/btcd v0.23.2
 	github.com/btcsuite/btcd/btcec/v2 v2.2.1 // indirect
 	github.com/btcsuite/btcd/btcutil v1.1.2
 	github.com/docker/distribution v2.8.1+incompatible // indirect
